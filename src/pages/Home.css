@@ -376,6 +376,21 @@ html[lang="zh-CN"] .hero__title {
     grid-template-columns: 1fr;
   }
 
+  .hero__content,
+  .hero__visual,
+  .hero__bars {
+    min-width: 0;
+    max-width: 100%;
+  }
+
+  .hero__bars {
+    gap: 8px;
+  }
+
+  .hero__bar {
+    min-width: 0;
+  }
+
   .hero__buttons {
     flex-direction: column;
   }
