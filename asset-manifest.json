@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/spankys-bkk/static/css/main.d61fe822.css",
-    "main.js": "/spankys-bkk/static/js/main.be6c7ad7.js",
-    "static/css/160.a6d6d71b.chunk.css": "/spankys-bkk/static/css/160.a6d6d71b.chunk.css",
+    "main.css": "/spankys-bkk/static/css/main.9a1a43a6.css",
+    "main.js": "/spankys-bkk/static/js/main.e65d41e7.js",
+    "static/css/160.5a717ac8.chunk.css": "/spankys-bkk/static/css/160.5a717ac8.chunk.css",
     "static/js/160.7ec84270.chunk.js": "/spankys-bkk/static/js/160.7ec84270.chunk.js",
-    "static/css/730.a7e590f9.chunk.css": "/spankys-bkk/static/css/730.a7e590f9.chunk.css",
+    "static/css/730.6a8b3432.chunk.css": "/spankys-bkk/static/css/730.6a8b3432.chunk.css",
     "static/js/730.a06c3622.chunk.js": "/spankys-bkk/static/js/730.a06c3622.chunk.js",
     "static/css/161.dd5f8a3e.chunk.css": "/spankys-bkk/static/css/161.dd5f8a3e.chunk.css",
     "static/js/161.17534af7.chunk.js": "/spankys-bkk/static/js/161.17534af7.chunk.js",
@@ -18,7 +18,7 @@
     "index.html": "/spankys-bkk/index.html"
   },
   "entrypoints": [
-    "static/css/main.d61fe822.css",
-    "static/js/main.be6c7ad7.js"
+    "static/css/main.9a1a43a6.css",
+    "static/js/main.e65d41e7.js"
   ]
 }
