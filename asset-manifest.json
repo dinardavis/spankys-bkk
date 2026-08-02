@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/spankys-bkk/static/css/main.d61fe822.css",
-    "main.js": "/spankys-bkk/static/js/main.e9064ff3.js",
-    "static/css/160.4d61ea8c.chunk.css": "/spankys-bkk/static/css/160.4d61ea8c.chunk.css",
+    "main.js": "/spankys-bkk/static/js/main.be6c7ad7.js",
+    "static/css/160.a6d6d71b.chunk.css": "/spankys-bkk/static/css/160.a6d6d71b.chunk.css",
     "static/js/160.7ec84270.chunk.js": "/spankys-bkk/static/js/160.7ec84270.chunk.js",
     "static/css/730.a7e590f9.chunk.css": "/spankys-bkk/static/css/730.a7e590f9.chunk.css",
     "static/js/730.a06c3622.chunk.js": "/spankys-bkk/static/js/730.a06c3622.chunk.js",
@@ -19,6 +19,6 @@
   },
   "entrypoints": [
     "static/css/main.d61fe822.css",
-    "static/js/main.e9064ff3.js"
+    "static/js/main.be6c7ad7.js"
   ]
 }
