@@ -1,0 +1,419 @@
+{
+  "navLinks": [
+    { "label": "首页", "path": "/" },
+    { "label": "相册", "path": "/gallery" },
+    { "label": "活动", "path": "/events" },
+    { "label": "酒水单", "path": "/menu" },
+    { "label": "联系", "path": "/contact" }
+  ],
+  "navCta": "今晚到访",
+  "siteInfo": {
+    "tagline": "娜娜广场最受欢迎的纵情娱乐场所之一",
+    "address": "泰国曼谷娜娜广场二楼",
+    "hours": "每晚7点至深夜"
+  },
+  "homeContent": {
+    "hero": {
+      "title": "Spanky's 曼谷",
+      "subtitle": "娜娜广场最受欢迎的纵情娱乐场所之一",
+      "body": "Spanky's 在娜娜广场营业超过16年，提供冰爽饮品、精彩舞台和难忘夜生活。无论你是第一次来曼谷还是常客，这里总有值得停留的理由。",
+      "buttons": [
+        { "label": "今晚到访", "path": "/contact", "primary": true },
+        { "label": "预订活动", "path": "/events#event-inquiry", "primary": false }
+      ],
+      "badgeOpen": "每晚营业",
+      "badgeLocation": "娜娜广场"
+    },
+    "stats": {
+      "title": "16年（几乎）明智的决定",
+      "items": [
+        { "value": "16+", "label": "扎根娜娜广场" },
+        { "value": "100K+", "label": "款待宾客" },
+        { "value": "4.2★", "label": "平均评分" },
+        { "value": "∞", "label": "拍打次数" }
+      ]
+    },
+    "experience": {
+      "eyebrow": "体验",
+      "title": "Spanky's 体验",
+      "body": [
+        "Spanky's 位于娜娜广场二楼，以热闹氛围、活力表演和友好团队而闻名。",
+        "有些客人本来只想喝一杯，结果一抬头已经凌晨两点。",
+        "无论你的夜晚如何开始，我们都会帮你把它变成难忘回忆。"
+      ]
+    },
+    "celebrate": {
+      "eyebrow": "私人活动",
+      "title": "有活动要庆祝？",
+      "body": "生日、单身派对、公司聚会，或者只是朋友聚会都很适合。想在娜娜广场度过精彩夜晚，Spanky's 是理想选择。",
+      "button": { "label": "规划活动", "path": "/events#event-inquiry" }
+    },
+    "galleryPreview": {
+      "eyebrow": "相册",
+      "title": "难忘夜晚",
+      "button": "查看全部"
+    },
+    "contact": {
+      "eyebrow": "联系",
+      "title": "今晚来 Spanky's",
+      "labels": {
+        "email": "邮箱",
+        "phone": "电话",
+        "address": "地址",
+        "hours": "营业时间"
+      }
+    }
+  },
+  "galleryContent": {
+    "eyebrow": "相册",
+    "title": "Spanky's 氛围",
+    "subtitle": "来看看 Spanky's 真正的主角——美丽又贴心的姑娘们。正是她们的魅力与温暖，让每一次到访都成为难忘的体验。",
+    "loadMore": "加载更多"
+  },
+  "eventsContent": {
+    "eyebrow": "活动",
+    "title": "Spanky's 活动信息",
+    "subtitle": "了解 Spanky's 即将举办的活动、节日庆典和特别主题夜。",
+    "events": [
+      {
+        "id": "halloween-2026",
+        "title": "Spanky's 万圣节",
+        "date": "2026年10月31日",
+        "description": "变装、惊喜，以及一年中最疯狂的夜晚之一。"
+      },
+      {
+        "id": "christmas-2026",
+        "title": "Spanky's 圣诞节",
+        "date": "2026年12月25日",
+        "description": "加入我们的节日之夜，享受节日氛围、精彩表演和浓浓的圣诞气息。"
+      },
+      {
+        "id": "makha-bucha-2026",
+        "title": "万佛节",
+        "date": "2026年3月3日",
+        "description": "泰国重要的佛教节日，人们前往寺庙祈福、参加烛光游行并静心礼拜。"
+      },
+      {
+        "id": "visakha-bucha-2026",
+        "title": "卫塞节",
+        "date": "2026年5月31日",
+        "description": "纪念佛陀诞生、成道与涅槃，曼谷各地寺庙都会举行法事。"
+      },
+      {
+        "id": "asahna-bucha-2026",
+        "title": "守夏节",
+        "date": "2026年7月29日",
+        "description": "纪念佛陀初转法轮，许多人会在傍晚参加寺庙烛光游行。"
+      },
+      {
+        "id": "khao-phansa-2026",
+        "title": "入夏节（雨安居开始）",
+        "date": "2026年7月30日",
+        "description": "佛教雨安居的开始，传统上以祈福、供奉和参访寺庙为主。"
+      },
+      {
+        "id": "ok-phansa-2026",
+        "title": "出夏节（雨安居结束）",
+        "date": "2026年10月26日",
+        "description": "雨安居结束之日，寺庙会举行各类活动及晚间点灯仪式。"
+      },
+      {
+        "id": "makha-bucha-2027",
+        "title": "万佛节",
+        "date": "2027年2月21日",
+        "description": "重要的佛教节日，寺庙会举行法事和傍晚烛光游行。"
+      },
+      {
+        "id": "songkran-2027",
+        "title": "Spanky's 泼水节",
+        "date": "2027年4月13日",
+        "description": "用美酒、精彩表演和热烈派对气氛，庆祝泰国最盛大的节日。"
+      },
+      {
+        "id": "visakha-bucha-2027",
+        "title": "卫塞节",
+        "date": "2027年5月20日",
+        "description": "全国性的礼佛、祈福与静心反思之日。"
+      },
+      {
+        "id": "asahna-bucha-2027",
+        "title": "守夏节",
+        "date": "2027年7月18日",
+        "description": "以祈祷和供奉纪念佛教僧团的开端。"
+      },
+      {
+        "id": "khao-phansa-2027",
+        "title": "入夏节（雨安居开始）",
+        "date": "2027年7月20日",
+        "description": "雨安居开始，许多泰国家庭会前往市内寺庙供奉。"
+      },
+      {
+        "id": "ok-phansa-2027",
+        "title": "出夏节（雨安居结束）",
+        "date": "2027年10月15日",
+        "description": "雨安居结束，以祈福和晚间灯笼、烛光仪式庆祝。"
+      }
+    ],
+    "host": {
+      "eyebrow": "私人活动",
+      "title": "在 Spanky's 举办活动",
+      "body": "正在寻找独特场地举办生日、单身派对、公司聚会、同学会或团体夜出？我们的团队可以帮你策划一场难忘之夜，无论人数多少。告诉我们你的需求，我们会尽快联系你。"
+    },
+    "form": {
+      "title": "活动咨询表",
+      "name": "姓名",
+      "email": "邮箱",
+      "phone": "电话",
+      "eventType": "活动类型",
+      "preferredDate": "预计日期",
+      "groupSize": "预计人数",
+      "details": "补充说明",
+      "submit": "提交活动咨询",
+      "success": "感谢提交！我们会尽快就你的活动需求与你联系。",
+      "submitAnother": "再次提交",
+      "placeholders": {
+        "name": "你的姓名",
+        "email": "you@email.com",
+        "phone": "+66 ...",
+        "eventType": "生日、单身派对等",
+        "groupSize": "10",
+        "details": "请描述你的活动需求"
+      }
+    },
+    "contactAlt": {
+      "title": "想直接联系我们？",
+      "button": "前往联系页面"
+    }
+  },
+  "menuContent": {
+    "eyebrow": "酒水单",
+    "title": "饮品菜单",
+    "intro": "好朋友配好酒。从冰啤、预调酒到烈酒和软饮，我们已为你的夜晚准备好完整选择。",
+    "note": "菜单和价格可能会调整。",
+    "categories": [
+      {
+        "key": "beer",
+        "name": "啤酒",
+        "items": [
+          { "name": "里奥", "price": "฿155" },
+          { "name": "象牌", "price": "฿155" },
+          { "name": "虎牌", "price": "฿155" },
+          { "name": "喜力", "price": "฿155" },
+          { "name": "胜狮", "price": "฿155" },
+          { "name": "生力轻啤", "price": "฿155" },
+          { "name": "科罗娜", "price": "฿180" }
+        ]
+      },
+      {
+        "key": "breezer",
+        "name": "预调酒",
+        "items": [
+          { "name": "预调酒 — 橙子", "price": "฿180" },
+          { "name": "预调酒 — 柠檬", "price": "฿180" }
+        ]
+      },
+      {
+        "key": "bourbon",
+        "name": "波本威士忌",
+        "items": [
+          { "name": "杰克丹尼", "price": "฿155" },
+          { "name": "占边", "price": "฿155" }
+        ]
+      },
+      {
+        "key": "scotch",
+        "name": "苏格兰威士忌",
+        "items": [
+          { "name": "尊尼获加 红方", "price": "฿155" },
+          { "name": "尊尼获加 黑方", "price": "฿155" },
+          { "name": "尊美醇", "price": "฿155" },
+          { "name": "芝华士", "price": "฿155" }
+        ]
+      },
+      {
+        "key": "rum",
+        "name": "朗姆酒",
+        "items": [
+          { "name": "百加得朗姆", "price": "฿155" },
+          { "name": "颂声", "price": "฿145" }
+        ]
+      },
+      {
+        "key": "gin",
+        "name": "金酒",
+        "items": [
+          { "name": "哥顿金酒", "price": "฿155" },
+          { "name": "孟买金酒", "price": "฿180" }
+        ]
+      },
+      {
+        "key": "vodka",
+        "name": "伏特加",
+        "items": [
+          { "name": "斯米诺", "price": "฿155" },
+          { "name": "绝对伏特加", "price": "฿180" },
+          { "name": "灰雁", "price": "฿180" }
+        ]
+      },
+      {
+        "key": "softDrinks",
+        "name": "软饮",
+        "items": [
+          { "name": "水", "price": "฿120" },
+          { "name": "汤力水", "price": "฿120" },
+          { "name": "苏打水", "price": "฿120" },
+          { "name": "可口可乐", "price": "฿140" },
+          { "name": "零度可口可乐", "price": "฿140" },
+          { "name": "雪碧", "price": "฿140" },
+          { "name": "红牛", "price": "฿140" }
+        ]
+      },
+      {
+        "key": "other",
+        "name": "其他",
+        "items": [
+          { "name": "百利甜", "price": "฿140" },
+          { "name": "甘露咖啡酒", "price": "฿140" },
+          { "name": "金巴利", "price": "฿155" },
+          { "name": "马利宝", "price": "฿155" },
+          { "name": "森巴加", "price": "฿145" },
+          { "name": "野格", "price": "฿170" },
+          { "name": "B-52", "price": "฿160" },
+          { "name": "Baby Bomb", "price": "฿180" },
+          { "name": "Sierra 龙舌兰", "price": "฿155" },
+          { "name": "人头马", "price": "฿180" }
+        ]
+      }
+    ]
+  },
+  "contactContent": {
+    "eyebrow": "联系",
+    "title": "联系 Spanky's",
+    "subtitle": "如有疑问、来访计划或私人活动预订需求，欢迎随时联系我们。",
+    "getInTouch": "需要帮助？我们随时为您服务。",
+    "labels": {
+      "email": "邮箱",
+      "phone": "电话",
+      "address": "地址",
+      "hours": "营业时间"
+    },
+    "whereAreWe": "我们在哪",
+    "maps": "谷歌地图",
+    "grab": "Grab",
+    "bolt": "Bolt",
+    "sendMessage": "发送信息",
+    "form": {
+      "firstName": "名",
+      "lastName": "姓",
+      "phone": "电话",
+      "email": "邮箱",
+      "message": "留言",
+      "privacy": "我已阅读并同意",
+      "privacyLink": "隐私政策",
+      "submit": "提交",
+      "success": "感谢联系，我们会尽快回复。",
+      "submitAnother": "再发一条消息",
+      "placeholders": {
+        "firstName": "名",
+        "lastName": "姓",
+        "phone": "+66 ...",
+        "email": "you@email.com",
+        "message": "请输入你的问题"
+      }
+    },
+    "faqTitle": "常见问题",
+    "faqs": [
+      {
+        "q": "营业时间？",
+        "a": "我们位于娜娜广场中心，每晚7点营业至深夜，一周七天。"
+      },
+      {
+        "q": "可以预订私人活动吗？",
+        "a": "当然可以。请前往活动页面提交咨询——我们可以帮你策划生日、单身派对、公司聚会等活动。"
+      },
+      {
+        "q": "具体地址在哪里？",
+        "a": "位于曼谷 Sukhumvit Soi 4 娜娜广场二楼。请在入口楼梯附近寻找 Spanky's 招牌。"
+      },
+      {
+        "q": "如何联系你们？",
+        "a": "发送邮件至 cs@spankysbkk.com 或致电 +66 93 000 000。也可使用本页联系表单。"
+      }
+    ]
+  },
+  "privacyContent": {
+    "title": "隐私政策",
+    "lastUpdatedLabel": "最后更新：",
+    "lastUpdated": "2026年6月25日",
+    "intro": "Spanky's 曼谷重视您的隐私，并致力于保护您选择与我们分享的个人信息。",
+    "sections": [
+      {
+        "heading": "我们收集的信息",
+        "paragraphs": [
+          "当您通过本网站提交咨询时，我们可能会收集以下信息："
+        ],
+        "list": [
+          "姓名",
+          "电子邮箱",
+          "电话号码",
+          "活动详情",
+          "您选择提供的其他信息"
+        ]
+      },
+      {
+        "heading": "我们如何使用您的信息",
+        "paragraphs": ["我们使用您提供的信息用于："],
+        "list": [
+          "回复您的咨询",
+          "协助活动预订与预约",
+          "就您的请求与您沟通",
+          "改进我们的客户服务"
+        ],
+        "closing": "我们不会向第三方出售、出租或交易您的个人信息。"
+      },
+      {
+        "heading": "数据安全",
+        "paragraphs": [
+          "我们采取合理措施保护通过本网站提交的信息。虽然没有任何在线传输方式是完全安全的，但我们努力通过适当的安全措施保护您的个人信息。"
+        ]
+      },
+      {
+        "heading": "Cookie",
+        "paragraphs": [
+          "本网站可能使用 Cookie 或类似技术来改善您的浏览体验，并帮助我们了解访客如何使用网站。您可以通过浏览器设置禁用 Cookie。"
+        ]
+      },
+      {
+        "heading": "第三方服务",
+        "paragraphs": [
+          "本网站可能包含指向第三方网站或服务的链接。我们不对这些外部网站的隐私做法或内容负责。"
+        ]
+      },
+      {
+        "heading": "您的权利",
+        "paragraphs": [
+          "如果您已提交个人信息，并希望申请访问、更正或删除您的数据，请通过以下联系方式与我们联系。"
+        ]
+      }
+    ],
+    "contactHeading": "联系我们",
+    "contactIntro": "如对本隐私政策或您的信息处理方式有任何疑问，请通过以下方式联系我们：",
+    "contactLabels": {
+      "email": "邮箱",
+      "phone": "电话",
+      "address": "地址"
+    },
+    "acknowledgement": "通过本网站提交咨询，即表示您已阅读并同意本隐私政策。",
+    "backLink": "返回联系页面"
+  },
+  "footer": {
+    "navigate": "导航",
+    "visitUs": "到店信息",
+    "newsletter": "订阅动态",
+    "newsletterText": "获取活动、优惠和难忘夜晚的最新消息。",
+    "emailPlaceholder": "邮箱地址",
+    "subscribe": "订阅",
+    "copyright": "Spanky's Bangkok"
+  },
+  "marqueeText": "今晚来 Spanky's · 娜娜广场 · 曼谷 · 冰爽饮品 · 精彩表演 · "
+}

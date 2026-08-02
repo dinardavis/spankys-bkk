@@ -1,0 +1,75 @@
+.lang-switcher {
+  display: flex;
+  align-items: center;
+  gap: 0.35rem;
+  padding: 0.2rem;
+  border: 1px solid var(--border);
+  border-radius: var(--radius-pill);
+  background: rgba(20, 20, 20, 0.7);
+}
+
+.lang-switcher__btn {
+  width: 32px;
+  height: 32px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  border: 2px solid transparent;
+  border-radius: 50%;
+  background: transparent;
+  cursor: pointer;
+  padding: 0;
+  transition: border-color var(--transition), transform var(--transition);
+}
+
+.lang-switcher__btn:hover {
+  transform: scale(1.08);
+}
+
+.lang-switcher__btn--active {
+  border-color: var(--red);
+}
+
+.lang-switcher__flag {
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+
+.lang-switcher--fixed {
+  position: fixed;
+  top: 50%;
+  right: 0rem;
+  z-index: 900;
+  flex-direction: column;
+  gap: 0.45rem;
+  padding: 0.45rem;
+  background: rgba(5, 5, 5, 0.88);
+  border-right: none;
+  backdrop-filter: blur(12px);
+  transform: translateY(-50%);
+  border-radius: 10px 0 0 10px;
+}
+
+.lang-switcher--mobile-header {
+  padding: 0.15rem;
+  gap: 0.25rem;
+  background: rgba(20, 20, 20, 0.85);
+}
+
+.lang-switcher--mobile-header .lang-switcher__btn {
+  width: 28px;
+  height: 28px;
+}
+
+.lang-switcher--mobile-header .lang-switcher__flag {
+  width: 18px;
+  height: 18px;
+}
+
+@media (max-width: 900px) {
+  .lang-switcher--fixed {
+    display: none;
+  }
+}

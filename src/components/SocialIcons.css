@@ -1,0 +1,14 @@
+.social-icons a svg {
+  display: block;
+  width: var(--social-icon-size, 16px);
+  height: var(--social-icon-size, 16px);
+  fill: none;
+  stroke: currentColor;
+  stroke-width: 1.8;
+  transform: scale(var(--icon-scale, 1));
+}
+
+.social-icons a.social-icons__link--filled svg {
+  fill: currentColor;
+  stroke: none;
+}
