@@ -127,6 +127,10 @@ html[lang="zh-CN"] .hero__title {
   margin-bottom: 4.5rem;
 }
 
+.home {
+  overflow-x: hidden;
+}
+
 /* Stats */
 .stats {
   background: var(--surface);
@@ -369,6 +373,10 @@ html[lang="zh-CN"] .hero__title {
   .hero__bars {
     min-height: 320px;
   }
+
+  .experience__images {
+    max-width: 100%;
+  }
 }
 
 @media (max-width: 600px) {
@@ -389,6 +397,10 @@ html[lang="zh-CN"] .hero__title {
 
   .hero__bar {
     min-width: 0;
+  }
+
+  .hero__title {
+    overflow-wrap: break-word;
   }
 
   .hero__buttons {
